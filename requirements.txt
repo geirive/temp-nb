@@ -1,2 +1,6 @@
 jupyter
 ipysheet
+xlsxwriter
+pandas
+numpy
+matplotlib
